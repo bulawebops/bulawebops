@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bula_webdev
-- 👀 I’m interested in Full Stack Development
-- 💞️ I’m looking to collaborate on things that create fun memories
+- 👀 Love Full Stack Development
+- 💞️ Discovering what AI has to offer
 - 📫 How to reach me at the beach
 
 <!---
