@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bula_webdev
-- 👀 Love Full Stack Development
+- 👀 Love tinkering with web applications with the help of AI
 - 💞️ Discovering what AI has to offer
 - 📫 How to reach me at the glitch
 
