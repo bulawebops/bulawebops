@@ -9,8 +9,8 @@ Currently exploring - I'm deep in the "what can I build faster, better, and weir
 
 I'm always up for talking curriculum design, dev workflows, and whatever AI just made possible this week.
 
-# My Project
-latest projects worked on ...
+## Recent Project(s)
+latest worked on with AI Claude, ChatGPT, Perplexity, Gemini etc.
 + [CTracker](https://ctracker-btdt.web.app/)
 + [fyshifyshi](https://github.com/bulawebops/fyshi-fyshi)
 + [Dev & Ai Road Map](https://bulawebops.github.io/devroadmap/)
