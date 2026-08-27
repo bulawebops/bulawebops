@@ -1,4 +1,4 @@
-## Bula Vinaka! :punch:
+## Welcome! :punch:
 I am an entrepreneur and developer currently living in the best country in the world, United States of America :rocket:. 
 
 Before teaching, it's been a decade around front-end development, full-stack apps, CMS platforms, and the occasional 2am or odd times of the day with production fires :fire:. 
