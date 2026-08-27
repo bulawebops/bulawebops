@@ -8,3 +8,7 @@ Lately I'm obsessed with what happens when you hand AI a keyboard and see what i
 Currently exploring - I'm deep in the "what can I build faster, better, and weirder with AI as a collaborator" :signal_strength: phase. Expect experiments, half-finished ideas, and the occasional thing that actually works. That's what the Repositories tab above is for — go poke around. :star2:
 
 I'm always up for talking curriculum design, dev workflows, and whatever AI just made possible this week.
+
+# My Project
+latest projects worked on ...
++ CTracker [link](https://ctracker-btdt.web.app/)
