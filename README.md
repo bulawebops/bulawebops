@@ -11,4 +11,5 @@ I'm always up for talking curriculum design, dev workflows, and whatever AI just
 
 # My Project
 latest projects worked on ...
-+ CTracker [link](https://ctracker-btdt.web.app/)
++ [CTracker](https://ctracker-btdt.web.app/)
++ [fyshifyshi](https://github.com/bulawebops/fyshi-fyshi)
