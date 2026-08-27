@@ -1,4 +1,4 @@
-Bula Vinaka! :punch:
+## Bula Vinaka! :punch:
 I'm Jason Faga :bow:, an internet entrepreneur and developer from the United States :rocket: but originally raised in the beautiful islands of Fiji. Currently help the Web Programming & Development program at Mountainland Technical College :office: helping individuals gain knowledge and learn programming skills :computer: that can be transferred into any technical role in the vast fast growing tech space. 
 
 Before teaching, I spent a decade around front-end development, full-stack apps, CMS platforms, and the occasional 2am or odd times of the day with production fires. 
